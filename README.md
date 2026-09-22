@@ -12,6 +12,8 @@ Professionals and students face constant context-switching. Capturing a quick ta
 ## 💡 The Solution
 AirScribe runs completely **offline and on-device**. You speak into your phone, and an on-device Small Language Model (SLM) cleans the transcription and extracts actionable items. Using the **iQOO Office Kit**, these formatted tasks instantly pop up on your laptop's clipboard or local filesystem, ready to paste into VS Code, Notion, or Jira.
 
+## Prototype URL : https://airscribe-studio-ui-design.vercel.app/
+
 ## ✨ Key Features
 *   **Zero-Latency Voice Capture:** Uses Android's native offline `SpeechRecognizer` for instant audio-to-text conversion.
 *   **Private On-Device AI:** Integrates Google's MediaPipe LLM Inference API running a quantized SLM (Gemma 2B) locally on the phone to extract tasks and format markdown.
@@ -61,6 +63,8 @@ AirScribe runs completely **offline and on-device**. You speak into your phone, 
 ### Build Instructions - TBA
 
 ## 👥 Team
-*   **Neeraj Piralkar** 
-*   **Tanmay Patil** 
+*   **Neeraj Piralkar** : Frontend & integration lead — specializes in responsive UI, cross-device APIs, and rapid prototyping.
+*   **Tanmay Patil** : Backend & signal processing lead — experience building real-time audio pipelines and on-device ML optimizations.
+
+
 
